@@ -4,11 +4,11 @@
 
 Select the following as confirmation that the files in this repository are complete.
 
-- [ ] Behavioral Questions
-- [ ] Career Readiness
-- [ ] Coding Challenges
-- [ ] Interview Questions
-- [ ] Ruby Challenges
+- [X] Behavioral Questions
+- [X] Career Readiness
+- [X] Coding Challenges
+- [X] Interview Questions
+- [X] Ruby Challenges
 
 ### ✋ Reminder
 
